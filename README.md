@@ -2,17 +2,12 @@
   <img src="https://raw.githubusercontent.com/spk-22/Portfolio/main/banner.png" alt="Portfolio Banner" width="100%" />
 </p>
 
-# Portfolio
-
-My personal portfolio website showcasing my skills, projects, certifications, and experiences. Built using modern web technologies, it serves as a central hub for everything about me—from frontend development work and internship experience to academic projects and extracurricular achievements.
-
-Based on your code, here's a professional and tailored `README.md` you can use for your portfolio GitHub repository:
-
----
-
-# 🌐 Personal Portfolio
+#  🌐 Portfolio
 
 Welcome to my personal portfolio repository! This website showcases my skills, projects, experience, and certifications in a visually appealing and interactive manner.
+My personal portfolio website showcasing my skills, projects, certifications, and experiences. Built using modern web technologies, it serves as a central hub for everything about me—from frontend development work and internship experience to academic projects and extracurricular achievements.
+
+---
 
 ## 🛠️ Tech Stack
 
